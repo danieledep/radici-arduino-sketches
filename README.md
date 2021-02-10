@@ -1,6 +1,6 @@
 ![sketches](https://github.com/danieledep/arduino-sketches/blob/main/arduino-sketches-cover-1400.jpg)  
 # arduino-sketches
-arduino sketches for interactive physical installation
+arduino sketches for interactive physical audio installation
 
 Useful material:  
 [Simple nRF24L01+ 2.4GHz transceiver demo](https://forum.arduino.cc/index.php?topic=421081)  
