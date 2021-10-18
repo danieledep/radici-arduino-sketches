@@ -1,6 +1,8 @@
 ![sketches](https://github.com/danieledep/arduino-sketches/blob/main/arduino-sketches-cover-1400.jpg)  
 # radici-arduino-sketches
-arduino sketches for interactive physical audio installation
+arduino sketches, schematics and stl files for interactive physical audio installation
+
+![group-pic](https://github.com/danieledep/radici-arduino-sketches/blob/main/foto-video-installation/group-pic.JPG)
 
 The ```.wav``` sound effects are converted to data files with [wav2sketch](https://github.com/PaulStoffregen/Audio/tree/master/extras/wav2sketch) by Paul Stoffregen
 
