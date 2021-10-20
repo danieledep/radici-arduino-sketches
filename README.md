@@ -2,7 +2,11 @@
 # radici-arduino-sketches
 arduino sketches, schematics and stl files for interactive physical audio installation
 
-![group-pic](https://github.com/danieledep/radici-arduino-sketches/blob/main/foto-video-installation/group-pic.JPG)
+![grouppic](https://github.com/danieledep/radici-arduino-sketches/blob/main/foto-video-installation/group-pic.JPG)
+*sensors group picture*
+
+![working sensor](https://github.com/danieledep/radici-arduino-sketches/blob/main/foto-video-installation/IMG_2123.JPG)
+*sensor at work patiently waiting a trespass*   
 
 The ```.wav``` sound effects are converted to data files with [wav2sketch](https://github.com/PaulStoffregen/Audio/tree/master/extras/wav2sketch) by Paul Stoffregen
 
