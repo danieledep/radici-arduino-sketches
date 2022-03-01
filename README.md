@@ -13,6 +13,7 @@ The ```.wav``` sound effects are converted to data files with [wav2sketch](https
 ## Libraries
 - [RF24](https://github.com/nRF24/RF24)
 - [SerialMP3Player](https://github.com/salvadorrueda/SerialMP3Player)
+- [Teensy Audio Library](https://github.com/PaulStoffregen/Audio)
    
 ## Tutorials 
 - [Getting Started with the HC-SR04 Ultrasonic sensor](https://create.arduino.cc/projecthub/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-036380)
