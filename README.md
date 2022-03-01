@@ -19,4 +19,5 @@ The ```.wav``` sound effects are converted to data files with [wav2sketch](https
 - [Getting Started with the HC-SR04 Ultrasonic sensor](https://create.arduino.cc/projecthub/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-036380)
 - [Simple nRF24L01+ 2.4GHz transceiver demo](https://forum.arduino.cc/index.php?topic=421081)  
 - [Teensy Audio Tutorial Kit](https://www.pjrc.com/store/audio_tutorial_kit.html)
+- [Instructions for using wav2sketch](https://forum.pjrc.com/threads/42401-Instructions-or-tutorials-for-using-wav2sketch?p=135069&viewfull=1#post135069)
 - [Feeding power to Arduino: the ultimate guide](https://www.open-electronics.org/the-power-of-arduino-this-unknown/)
