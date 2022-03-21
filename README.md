@@ -1,4 +1,3 @@
-![sketches](https://github.com/danieledep/arduino-sketches/blob/main/arduino-sketches-cover-1400.jpg)  
 # radici-arduino-sketches
 arduino sketches, schematics and stl files for interactive physical audio installation
 
